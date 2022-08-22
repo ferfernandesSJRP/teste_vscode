@@ -1,0 +1,40 @@
+fernandafernandes235@gmail.com
+
+DANY3#dragoes
+
+
+
+>>git clone
+(faz clone do que tem no git)
+(pegar o code, na pagina git no botao verde code, ex: https://github.com/ferfernandesSJRP/teste_vscode.git)
+
+>>git status
+(ver o que modificou)
+
+>>git add
+(joga no index, sala de espera do git)
+(ex: git arquivo1.txt)
+
+>>git add .
+(adiciona todos os arquivos da pasta de uma vez)
+
+>>git commit -m "alguma mensagem aqui"
+(Vai pegar todos os arquivos que estão na área de preparação)
+
+>> gitlog
+(Ver o histórico dos commits feitos
+código, onde foi feito, autor, data, a mensagem colocada)
+
+>> git push
+(Empurrar. joga na núvem do github para aparecer no site)
+
+>> git push origin main
+(garantir que vai enviar onde o commit foi feito)
+
+>> git config
+(Quem é vc, abestado?
+git config --global user.name "Fernanda C. Fernandes"
+git config --global user.email "fernandafernandes@235@gmail.com" )
+
+
+area nada > area de preparação > comitado
