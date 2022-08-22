@@ -35,6 +35,14 @@ código, onde foi feito, autor, data, a mensagem colocada)
 git config --global user.name "Fernanda C. Fernandes"
 git config --global user.email "fernandafernandes@235@gmail.com" )
 
+>>git pull origin main
+Atualizar no pc o arquivo editado dentro do site do Git
+(para ver se deu certo, usar o "git log")
+
+
+Ao contrtário. Editado no pc e atualizar a versão no hub
+
+
 
 PASSOS DO GIT:
 area nada > area de preparação > comitado
