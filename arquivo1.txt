@@ -1,8 +1,7 @@
-fernandafernandes235@gmail.com
+Fernanda Cristiane Fernandes
+22/08/22
 
-DANY3#dragoes
-
-
+===============================
 
 >>git clone
 (faz clone do que tem no git)
@@ -37,4 +36,5 @@ git config --global user.name "Fernanda C. Fernandes"
 git config --global user.email "fernandafernandes@235@gmail.com" )
 
 
+PASSOS DO GIT:
 area nada > area de preparação > comitado
